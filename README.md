@@ -4,7 +4,7 @@ Feel Free to take a basic idea about the project, what to do, how to do it, but 
 
 Both DSA and OOPs are VVIP topics for an interview.
 
-Thus Try to Solve Challenges Yourself first before getting.
+Thus Try to Solve Challenges Yourself first.
 
 Wish you all the best :)
 Happy Coding
