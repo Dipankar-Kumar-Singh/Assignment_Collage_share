@@ -6,7 +6,7 @@ public class App{
 
     public static void main(String[] args){
 
-        System.out.println("WORKING ! 😂 \n\n"); 
+      
 
 
         Bike CBZ = new Bike() ;
